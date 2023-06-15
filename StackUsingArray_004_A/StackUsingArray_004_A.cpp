@@ -7,13 +7,4 @@ class Program {
 private:
 	string stack_array[5];
 	int top;
-
-public:
-	Program() {
-		top = -1;
-	}
-
-	string push(string element) {
-
-	}
 };
